@@ -1,0 +1,17 @@
+{
+  "name": "toufi/api.console.booksmyfriend.app",
+  "autoload": {
+    "psr-4": {
+      "Sources\\": "sources",
+      "Controllers\\": "controllers",
+      "Includes\\": "includes",
+      "Services\\": "services"
+    }
+  },
+  "authors": [
+    {
+      "name": "SOPNO LIKHI LLC"
+    }
+  ],
+  "require": {}
+}
