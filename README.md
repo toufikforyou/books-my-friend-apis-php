@@ -4,23 +4,23 @@ A simple and easy-to-use API for managing books. This project provides a complet
 
 ## Features
 
-*   User authentication (Sign up, Login)
-*   OTP verification
-*   Create, Read, Update, Delete (CRUD) operations for books
-*   View user's own books
-*   Secure API with token-based authentication
+- User authentication (Sign up, Login)
+- OTP verification
+- Create, Read, Update, Delete (CRUD) operations for books
+- View user's own books
+- Secure API with token-based authentication
 
 ## API Endpoints
 
 The base URL for the API is `https://api.console.booksmyfriend.app/`
 
-| Endpoint                  | Method | Description              | Authentication |
-| ------------------------- | ------ | ------------------------ | -------------- |
-| `/signup`                 | POST   | Create a new user        | None           |
-| `/login`                  | POST   | Login a user             | None           |
-| `/verify-otp`             | POST   | Verify OTP               | None           |
-| `/books`                  | POST   | Create a new book        | Token          |
-| `/my-books`               | GET    | Get user's own books     | Token          |
+| Endpoint      | Method | Description          | Authentication |
+| ------------- | ------ | -------------------- | -------------- |
+| `/signup`     | POST   | Create a new user    | None           |
+| `/login`      | POST   | Login a user         | None           |
+| `/verify-otp` | POST   | Verify OTP           | None           |
+| `/books`      | POST   | Create a new book    | Token          |
+| `/my-books`   | GET    | Get user's own books | Token          |
 
 ## Installation
 
@@ -41,7 +41,7 @@ You can use any API testing tool like Postman or integrate the APIs into your ap
 
 ## Contributing
 
-Contributions are welcome! Please read the [contributing guidelines](docs/CONTRIBUTING.md) before getting started. 
+Contributions are welcome! Please read the [contributing guidelines](docs/CONTRIBUTING.md) before getting started.
 
 ## License
 
@@ -49,4 +49,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-*   **MH Toufik** - *Initial work* - [toufikforyou](https://github.com/toufikforyou)
+- **MH Toufik** - _Initial work_ - [toufikforyou](https://github.com/toufikforyou)
