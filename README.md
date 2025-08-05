@@ -41,7 +41,7 @@ You can use any API testing tool like Postman or integrate the APIs into your ap
 
 ## Contributing
 
-Contributions are welcome! Please read the [contributing guidelines](docs/contributing.md) before getting started.
+Contributions are welcome! Please read the [contributing guidelines](docs/CONTRIBUTING.md) before getting started. 
 
 ## License
 

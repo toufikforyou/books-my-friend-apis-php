@@ -5,6 +5,7 @@ Thank you for considering contributing to this project! We welcome contributions
 ## How to Contribute
 
 1. **Fork the Repository**
+
    - Click the "Fork" button at the top-right corner of the repository page.
    - Clone your fork locally using:
 
@@ -13,6 +14,7 @@ Thank you for considering contributing to this project! We welcome contributions
      ```
 
 2. **Create a Branch**
+
    - Create a new branch to work on your contribution:
 
      ```bash
@@ -20,6 +22,7 @@ Thank you for considering contributing to this project! We welcome contributions
      ```
 
 3. **Make Changes**
+
    - Implement your changes or add your contributions.
    - Ensure your code follows the project’s coding standards.
    - Write clear and concise commit messages:
@@ -29,6 +32,7 @@ Thank you for considering contributing to this project! We welcome contributions
      ```
 
 4. **Push Changes**
+
    - Push your branch to your fork:
 
      ```bash
@@ -36,6 +40,7 @@ Thank you for considering contributing to this project! We welcome contributions
      ```
 
 5. **Open a Pull Request**
+
    - Go to the original repository and open a pull request (PR).
    - Provide a descriptive title and details of your changes in the PR description.
 
@@ -61,7 +66,7 @@ We welcome a wide variety of contributions, including but not limited to:
 
 ## Code of Conduct
 
-Please adhere to this project's [Code of Conduct](./CODE_OF_CONDUCT.md). Be respectful and considerate of others in all interactions.
+Please adhere to this project's [Code of Conduct](./CODE_OF_CONDUCT.md) file. Be respectful and considerate of others in all interactions.
 
 ## Questions or Suggestions?
 
