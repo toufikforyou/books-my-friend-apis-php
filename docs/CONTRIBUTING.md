@@ -10,7 +10,7 @@ Thank you for considering contributing to this project! We welcome contributions
    - Clone your fork locally using:
 
      ```bash
-     git clone https://github.com/your-username/repository-name.git
+     git clone https://github.com/your-username/your-repository-name.git
      ```
 
 2. **Create a Branch**
